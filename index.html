@@ -4,9 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Left Behind – NASA hardware stories</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Left Behind</h1>
-  <p>Stories of the NASA hardware we left on the Moon, Mars and in deep space.</p>
+  <header>
+    <h1>Left Behind</h1>
+    <p>Stories of the NASA hardware we left on the Moon, Mars and in deep space.</p>
+    <nav>
+      <button data-body="Moon" class="active">🌕 Moon</button>
+      <button data-body="Mars">🔴 Mars</button>
+      <button data-body="Deep space">🚀 Deep space</button>
+    </nav>
+  </header>
+  <main>
+    <div id="map"></div>
+    <div id="deep" hidden></div>
+    <aside id="card"><p>Click a marker to hear its story.</p></aside>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
