@@ -13,6 +13,7 @@ let objects = [];
 function showCard(o) {
   document.getElementById("card").innerHTML = `
     <h2>${o.name}</h2>
+    ${o.image_url ? `<img class="card-img" src="${o.image_url}" alt="${o.name}" onerror="this.remove()"><p class="credit">Image: ${o.image_credit}</p>` : ""}
     <p class="story">${o.story || "<em>Story coming soon…</em>"}</p>
     <ul>
       <li><b>Launched:</b> ${o.launched}</li>
