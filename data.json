@@ -10,7 +10,7 @@
     "status": "Descent stage still at Tranquility Base. The ascent stage was jettisoned into lunar orbit and probably crashed within 1-4 months.",
     "mass_kg": 2034,
     "science": "Carried the first humans to the Moon; they brought back 21.55 kg of lunar rock and soil and set up a seismometer and a laser reflector.",
-    "story": "",
+    "story": "Hi, I'm Eagle, the Apollo 11 Lunar Module! On 20 July 1969 I carried Neil Armstrong and Buzz Aldrin down to the Moon, and Neil radioed home: 'The Eagle has landed.' My top half flew them back to orbit, but my bottom half is still sitting at Tranquility Base, right where the first humans walked on another world.",
     "image_url": "",
     "image_credit": "",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C"
@@ -26,7 +26,7 @@
     "status": "Silent since a global dust storm in June 2018; mission declared over in February 2019.",
     "mass_kg": 185,
     "science": "Found rocks and minerals such as hematite that formed in water, evidence that Mars once had liquid water. Drove 45.16 km.",
-    "story": "",
+    "story": "I'm Opportunity, a solar-powered rover. Scientists hoped I would work for 90 days, but I explored Mars for more than 14 years and found rocks that formed in water long ago! In June 2018 a giant dust storm covered my solar panels, and I have been quiet ever since.",
     "image_url": "",
     "image_credit": "",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A"
@@ -42,7 +42,7 @@
     "status": "In interstellar space since 25 August 2012, the first spacecraft to get there.",
     "mass_kg": 721.9,
     "science": "Flew past Jupiter (5 March 1979) and Saturn (12 November 1980) and is now measuring the space between the stars.",
-    "story": "",
+    "story": "I'm Voyager 1, launched in 1977 to visit Jupiter and Saturn. On 14 February 1990 I turned around and took the first 'family portrait' of our solar system, and I carry a golden record full of sounds and pictures from Earth. Today I'm the first spacecraft ever to travel through interstellar space, the space between the stars!",
     "image_url": "",
     "image_credit": "",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A"
