@@ -30,6 +30,7 @@ function showBody(body) {
   const items = objects.filter(o => o.body === body);
   const mapDiv = document.getElementById("map");
   const deepDiv = document.getElementById("deep");
+  document.getElementById("card").textContent = "Click a marker to hear its story.";
 
   if (body === "Deep space") {            // no map out there, just a list
     mapDiv.hidden = true;
