@@ -13,3 +13,11 @@ main { display: flex; gap: 12px; padding: 0 16px 16px; }
 .story { font-size: 1.1em; font-style: italic; color: #ffd166; }
 .source a { color: #8ecae6; }
 @media (max-width: 800px) { main { flex-direction: column; } #map, #deep { height: 50vh; } }
+#quiz { margin: 0 16px 24px; padding: 16px; background: #1a1f33; border-radius: 8px; }
+.quiz-q { font-size: 1.15em; }
+.quiz-opt { display: block; width: 100%; margin: 6px 0; padding: 10px; font-size: 16px; text-align: left;
+            background: #0b0e1a; color: #eee; border: 1px solid #556; border-radius: 8px; cursor: pointer; }
+.quiz-opt.correct { background: #2a9d8f; }
+.quiz-opt.wrong { background: #9d2a2a; }
+#quiz-next, #quiz-restart { margin-top: 8px; padding: 8px 16px; background: #ffb703; border: none;
+                            border-radius: 20px; font-size: 16px; cursor: pointer; }

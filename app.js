@@ -5,7 +5,7 @@ const TILES = {
 };
 
 // EPSG4326 = a simple lat/lon grid, which is how NASA Trek cuts its tiles
-const map = L.map("map", { crs: L.CRS.EPSG4326, minZoom: 0, maxZoom: 7 });
+const map = L.map("map", { crs: L.CRS.EPSG4326, minZoom: 1, maxZoom: 7 });
 const markers = L.layerGroup().addTo(map);
 let baseLayer = null;
 let objects = [];
