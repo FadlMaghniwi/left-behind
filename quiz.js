@@ -1,3 +1,4 @@
+// Written with the help of Claude (Anthropic), an AI assistant; reviewed and tested by Fadl Maghniwi.
 // Each question: text, options, index of the right option (counting from 0), explanation
 const QUIZ = [
   { q: "Which part of Apollo 11's Eagle is still on the Moon today?",

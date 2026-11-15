@@ -1,6 +1,7 @@
 # Left Behind: stories of NASA hardware on the Moon, Mars and in deep space
 
 **Live site:** https://fadlmaghniwi.github.io/left-behind/
+**Demo (7 slides, PDF):** https://fadlmaghniwi.github.io/left-behind/left-behind-slides.pdf
 **Challenge:** NASA Space Apps 2026, "Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars"
 **Team:** StuMAR0626 (Fadl Maghniwi, Casablanca)
 
@@ -30,7 +31,17 @@ Opening `index.html` directly from disk won't work, because browsers block `fetc
 - Golombek et al. 2020, *Earth and Space Science*: InSight lander coordinates
 - Leaflet 1.9.4 (open-source map library)
 
+## Use of AI (Super Intelligence)
+I used Claude (Anthropic), a large language model, as a coding and writing assistant.
+- Code: it helped write and debug app.js, quiz.js, index.html and style.css.
+- Text: it drafted the first-person stories in data.json, the quiz questions and the slide deck text.
+- Design: it helped lay out the site and the slide deck.
+- I checked every fact against the NASA sources listed above, tested every feature, and made the final decisions.
+
+No images, video or audio were generated with AI. No NASA logos or branding are used.
+
 ## Known limits / next steps
 - 6 objects so far; more Apollo sites, Spirit, Phoenix and Pioneer could be added the same way
-- Some objects have no photo yet (the card hides a missing image instead of showing a broken one)
+- If a photo cannot load, the card hides it instead of showing a broken image
+- Opportunity's picture is an artist's illustration from NASA, not a photo taken on Mars
 - Planned: French and Arabic versions for Moroccan schools, and a live distance for Voyager 1 from JPL Horizons

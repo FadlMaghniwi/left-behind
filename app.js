@@ -1,3 +1,4 @@
+// Written with the help of Claude (Anthropic), an AI assistant; reviewed and tested by Fadl Maghniwi.
 // NASA Trek map tiles (real NASA imagery: LRO for the Moon, Viking for Mars)
 const TILES = {
   Moon: "https://trek.nasa.gov/tiles/Moon/EQ/LRO_WAC_Mosaic_Global_303ppd_v02/1.0.0/default/default028mm/{z}/{y}/{x}.jpg",
