@@ -44,7 +44,7 @@
     "mass_kg": 721.9,
     "science": "Flew past Jupiter (5 March 1979) and Saturn (12 November 1980) and is now measuring the space between the stars.",
     "story": "I'm Voyager 1, launched in 1977 to visit Jupiter and Saturn. On 14 February 1990 I turned around and took the first 'family portrait' of our solar system, and I carry a golden record full of sounds and pictures from Earth. Today I'm the first spacecraft ever to travel through interstellar space, the space between the stars!",
-    "image_url": "http://nssdc.gsfc.nasa.gov/planetary/image/voyager1.jpg",
+    "image_url": "http://nssdc.gsfc.nasa.gov/thumbnail/spacecraft/voyager.gif",
     "image_credit": "NASA / NSSDCA",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A",
     "source2_url": "https://www.jpl.nasa.gov/news/nasa-spacecraft-embarks-on-historic-journey-into-interstellar-space"
@@ -77,7 +77,7 @@
     "mass_kg": 572,
     "science": "Studied the biology, chemistry, weather and soil of Mars, and sent back the first picture from its landing site 25 seconds after touchdown.",
     "story": "I'm the Viking 1 Lander, and I touched down on Mars on 20 July 1976. Just 25 seconds after landing, I started sending home my very first picture of the Martian ground! I scooped up soil and watched the weather for more than six years, until my last contact on 13 November 1982.",
-    "image_url": "http://nssdc.gsfc.nasa.gov/planetary/image/viking1.jpg",
+    "image_url": "http://nssdc.gsfc.nasa.gov/thumbnail/spacecraft/viking_lander_model.gif",
     "image_credit": "NASA / NSSDCA",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C"
   },
@@ -93,7 +93,7 @@
     "mass_kg": 360,
     "science": "Studied the inside of Mars (its core, mantle and crust) with a seismometer, a heat-flow probe and precise radio tracking.",
     "story": "I'm InSight, a lander built to listen to the inside of Mars, a bit like a doctor with a stethoscope. My seismometer listened for marsquakes, but my digging 'mole' only got about 40 cm down instead of 5 metres, because the soil was too tricky! In December 2022 my solar power ran too low, and I went quiet.",
-    "image_url": "http://nssdc.gsfc.nasa.gov/image/spacecraft/insight.jpg",
+    "image_url": "http://nssdc.gsfc.nasa.gov/planetary/thumbnail/insight.gif",
     "image_credit": "NASA/JPL-Caltech",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2018-042A",
     "source2_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7583488"
