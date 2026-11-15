@@ -1,0 +1,50 @@
+[
+  {
+    "id": "apollo11-lm",
+    "name": "Apollo 11 Lunar Module 'Eagle' (descent stage)",
+    "body": "Moon",
+    "lat": 0.67416,
+    "lon": 23.47314,
+    "launched": "1969-07-16",
+    "arrived": "1969-07-20",
+    "status": "Descent stage still at Tranquility Base. The ascent stage was jettisoned into lunar orbit and probably crashed within 1-4 months.",
+    "mass_kg": 2034,
+    "science": "Carried the first humans to the Moon; they brought back 21.55 kg of lunar rock and soil and set up a seismometer and a laser reflector.",
+    "story": "",
+    "image_url": "",
+    "image_credit": "",
+    "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C"
+  },
+  {
+    "id": "opportunity",
+    "name": "Opportunity rover (MER-B)",
+    "body": "Mars",
+    "lat": -1.9462,
+    "lon": -5.5266,
+    "launched": "2003-07-08",
+    "arrived": "2004-01-25",
+    "status": "Silent since a global dust storm in June 2018; mission declared over in February 2019.",
+    "mass_kg": 185,
+    "science": "Found rocks and minerals such as hematite that formed in water, evidence that Mars once had liquid water. Drove 45.16 km.",
+    "story": "",
+    "image_url": "",
+    "image_credit": "",
+    "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A"
+  },
+  {
+    "id": "voyager1",
+    "name": "Voyager 1",
+    "body": "Deep space",
+    "lat": null,
+    "lon": null,
+    "launched": "1977-09-05",
+    "arrived": "",
+    "status": "In interstellar space since 25 August 2012, the first spacecraft to get there.",
+    "mass_kg": 721.9,
+    "science": "Flew past Jupiter (5 March 1979) and Saturn (12 November 1980) and is now measuring the space between the stars.",
+    "story": "",
+    "image_url": "",
+    "image_credit": "",
+    "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A"
+  }
+]
