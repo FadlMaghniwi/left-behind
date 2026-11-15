@@ -46,5 +46,53 @@
     "image_url": "",
     "image_credit": "",
     "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A"
+  },
+    {
+    "id": "apollo15-lm",
+    "name": "Apollo 15 Lunar Module 'Falcon' (descent stage)",
+    "body": "Moon",
+    "lat": 26.13239,
+    "lon": 3.63330,
+    "launched": "1971-07-26",
+    "arrived": "1971-07-30",
+    "status": "Descent stage still at Hadley-Apennine. The ascent stage was crashed into the Moon on purpose on 3 August 1971.",
+    "mass_kg": 2797,
+    "science": "Carried the first Lunar Roving Vehicle. The astronauts covered 27.9 km and brought back 77.31 kg of rock and soil, and their ALSEP science station sent data until 30 September 1977.",
+    "story": "I'm Falcon, the Apollo 15 Lunar Module. In July 1971 I carried astronauts Dave Scott and Jim Irwin, and the very first car ever driven on the Moon, the Lunar Roving Vehicle! Before leaving, Dave dropped a hammer and a feather side by side, and with no air to slow the feather down, they hit the ground at the same time.",
+    "image_url": "",
+    "image_credit": "",
+    "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C"
+  },
+  {
+    "id": "viking1-lander",
+    "name": "Viking 1 Lander",
+    "body": "Mars",
+    "lat": 22.27,
+    "lon": -47.95,
+    "launched": "1975-08-20",
+    "arrived": "1976-07-20",
+    "status": "Silent since contact was lost on 13 November 1982. Renamed the Thomas Mutch Memorial Station in 1981.",
+    "mass_kg": 572,
+    "science": "Studied the biology, chemistry, weather and soil of Mars, and sent back the first picture from its landing site 25 seconds after touchdown.",
+    "story": "I'm the Viking 1 Lander, and I touched down on Mars on 20 July 1976. Just 25 seconds after landing, I started sending home my very first picture of the Martian ground! I scooped up soil and watched the weather for more than six years, until my last contact on 13 November 1982.",
+    "image_url": "",
+    "image_credit": "",
+    "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C"
+  },
+  {
+    "id": "insight",
+    "name": "InSight lander",
+    "body": "Mars",
+    "lat": 4.5024,
+    "lon": 135.6234,
+    "launched": "2018-05-05",
+    "arrived": "2018-11-26",
+    "status": "Silent since its last transmission on 15 December 2022; mission declared over on 21 December 2022.",
+    "mass_kg": 360,
+    "science": "Studied the inside of Mars (its core, mantle and crust) with a seismometer, a heat-flow probe and precise radio tracking.",
+    "story": "I'm InSight, a lander built to listen to the inside of Mars, a bit like a doctor with a stethoscope. My seismometer listened for marsquakes, but my digging 'mole' only got about 40 cm down instead of 5 metres, because the soil was too tricky! In December 2022 my solar power ran too low, and I went quiet.",
+    "image_url": "",
+    "image_credit": "",
+    "source_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2018-042A"
   }
 ]
