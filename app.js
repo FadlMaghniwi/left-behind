@@ -13,7 +13,7 @@ let objects = [];
 function showCard(o) {
   document.getElementById("card").innerHTML = `
     <h2>${o.name}</h2>
-    ${o.image_url ? `<img class="card-img" src="${o.image_url}" alt="${o.name}" onerror="this.remove()"><p class="credit">Image: ${o.image_credit}</p>` : ""}
+    ${o.image_url ? `<figure class="card-fig"><img class="card-img" src="${o.image_url}" alt="${o.name}" onerror="this.parentElement.remove()"><figcaption class="credit">Image: ${o.image_credit}</figcaption></figure>` : ""}
     <p class="story">${o.story || "<em>Story coming soon…</em>"}</p>
     <ul>
       <li><b>Launched:</b> ${o.launched}</li>
@@ -22,7 +22,7 @@ function showCard(o) {
       <li><b>Status:</b> ${o.status}</li>
     </ul>
     <p><b>Science it made possible:</b> ${o.science}</p>
-    <p class="source">Source: <a href="${o.source_url}" target="_blank" rel="noopener">NASA</a></p>`;
+    <p class="source">Source: <a href="${o.source_url}" target="_blank" rel="noopener">NASA</a>${o.source2_url ? ` · <a href="${o.source2_url}" target="_blank" rel="noopener">More details</a>` : ""}</p>`;
 }
 
 function showBody(body) {
